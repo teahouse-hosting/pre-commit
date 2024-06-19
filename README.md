@@ -1,14 +1,3 @@
-this action is in maintenance-only mode and will not be accepting new features.
-
-generally you want to use [pre-commit.ci] which is faster and has more features.
-
-[pre-commit.ci]: https://pre-commit.ci
-
-___
-
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/pre-commit/action/main.svg)](https://results.pre-commit.ci/latest/github/pre-commit/action/main)
-[![Build Status](https://github.com/pre-commit/action/actions/workflows/main.yml/badge.svg)](https://github.com/pre-commit/action/actions)
-
 pre-commit/action
 =================
 
