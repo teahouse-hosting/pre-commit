@@ -8,6 +8,7 @@ inputs:
 runs:
   using: composite
   steps:
+  - uses: https://github.com/actions/setup-python
   - run: python3 -m pip install pre-commit
     shell: bash
   - run: python3 -m pip freeze --local
